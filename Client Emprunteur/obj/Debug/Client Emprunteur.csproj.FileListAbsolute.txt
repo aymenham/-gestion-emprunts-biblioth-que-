@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\bin\Debug\Client Emprunteur.exe.config
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\bin\Debug\Client Emprunteur.exe
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\bin\Debug\Client Emprunteur.pdb
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\bin\Debug\IRemoteBibliotheque.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\bin\Debug\IRemoteBibliotheque.pdb
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\obj\Debug\Client Emprunteur.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\obj\Debug\Client_Emprunteur.Accueil.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\obj\Debug\Client_Emprunteur.Consulter_liste_ouvrage.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\obj\Debug\Client_Emprunteur.Login.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\obj\Debug\Client_Emprunteur.Modifier_profile.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\obj\Debug\Client_Emprunteur.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\obj\Debug\Client Emprunteur.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\obj\Debug\Client Emprunteur.exe
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\obj\Debug\Client Emprunteur.pdb
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Emprunteur\obj\Debug\Client_Emprunteur.Detaille_Ouvrage.resources

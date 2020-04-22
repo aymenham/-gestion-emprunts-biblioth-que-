@@ -1,0 +1,19 @@
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\bin\Debug\Client Bibliothecaire.exe.config
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\bin\Debug\Client Bibliothecaire.exe
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\bin\Debug\Client Bibliothecaire.pdb
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\bin\Debug\IRemoteBibliotheque.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\bin\Debug\IRemoteBibliotheque.pdb
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client Bibliothecaire.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client_Bibliothecaire.Accueil.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client_Bibliothecaire.AjouterMembreEnseignant.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client_Bibliothecaire.AjouterMembreEtudiant.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client_Bibliothecaire.AjouterOuvrage.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client_Bibliothecaire.Consulter_Liste_Ouvrage.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client_Bibliothecaire.Login.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client_Bibliothecaire.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client_Bibliothecaire.SupprimerMembre.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client Bibliothecaire.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client Bibliothecaire.exe
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client Bibliothecaire.pdb
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client_Bibliothecaire.Detaille_Ouvrage.resources
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Client Bibliothecaire\obj\Debug\Client_Bibliothecaire.Consulter_List_reservastion.resources

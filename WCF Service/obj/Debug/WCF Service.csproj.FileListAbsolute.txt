@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\WCF Service\bin\Debug\WCF Service.dll.config
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\WCF Service\bin\Debug\WCF Service.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\WCF Service\bin\Debug\WCF Service.pdb
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\WCF Service\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\WCF Service\bin\Debug\Google.Protobuf.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\WCF Service\bin\Debug\MySql.Data.xml
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\WCF Service\obj\Debug\WCF Service.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\WCF Service\obj\Debug\WCF Service.pdb

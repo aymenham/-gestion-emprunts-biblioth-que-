@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\bin\Debug\ServeurBibliotheque.exe.config
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\bin\Debug\ServeurBibliotheque.exe
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\bin\Debug\ServeurBibliotheque.pdb
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\bin\Debug\IRemoteBibliotheque.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\bin\Debug\Google.Protobuf.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\bin\Debug\IRemoteBibliotheque.pdb
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\bin\Debug\MySql.Data.xml
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\obj\Debug\ServeurBibliotheque.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\obj\Debug\ServeurBibliotheque.exe
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\obj\Debug\ServeurBibliotheque.pdb
+D:\Aymen\GL master1\semestre1\POC\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\bin\Debug\ServeurBibliotheque.exe.config
+D:\Aymen\GL master1\semestre1\POC\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\obj\Debug\ServeurBibliotheque.exe
+D:\Aymen\GL master1\semestre1\POC\revision tp poc\AndroidWCF\Bibliotheque\ServeurBibliotheque\obj\Debug\ServeurBibliotheque.pdb

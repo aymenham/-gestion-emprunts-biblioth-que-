@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Service WCF Bibliothecaire\bin\Service WCF Bibliothecaire.dll.config
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Service WCF Bibliothecaire\bin\Service WCF Bibliothecaire.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Service WCF Bibliothecaire\bin\Service WCF Bibliothecaire.pdb
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Service WCF Bibliothecaire\bin\MySql.Data.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Service WCF Bibliothecaire\bin\Google.Protobuf.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Service WCF Bibliothecaire\bin\MySql.Data.xml
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Service WCF Bibliothecaire\obj\Debug\Service WCF Bibliothecaire.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Service WCF Bibliothecaire\obj\Debug\Service WCF Bibliothecaire.pdb
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\Service WCF Bibliothecaire\obj\Debug\Servicewcf.csprojResolveAssemblyReference.cache

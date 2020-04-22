@@ -1,0 +1,4 @@
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\IRemoteBibliotheque\bin\Debug\IRemoteBibliotheque.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\IRemoteBibliotheque\bin\Debug\IRemoteBibliotheque.pdb
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\IRemoteBibliotheque\obj\Debug\IRemoteBibliotheque.dll
+C:\Users\LENOVO\Desktop\revision tp poc\AndroidWCF\Bibliotheque\IRemoteBibliotheque\obj\Debug\IRemoteBibliotheque.pdb

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="IRemoteBibliotheque.Service1" CodeBehind="ServiceWCF.svc.cs" %>

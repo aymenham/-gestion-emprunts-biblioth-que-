@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F76EFD60-C543-4773-984E-C517982BBC5A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Client_Bibliothecaire</RootNamespace>
+    <AssemblyName>Client Bibliothecaire</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accueil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accueil.Designer.cs">
+      <DependentUpon>Accueil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterMembreEnseignant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjouterMembreEnseignant.Designer.cs">
+      <DependentUpon>AjouterMembreEnseignant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterMembreEtudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjouterMembreEtudiant.Designer.cs">
+      <DependentUpon>AjouterMembreEtudiant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterOuvrage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjouterOuvrage.Designer.cs">
+      <DependentUpon>AjouterOuvrage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulter_Liste_Ouvrage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulter_Liste_Ouvrage.Designer.cs">
+      <DependentUpon>Consulter_Liste_Ouvrage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulter_List_reservastion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulter_List_reservastion.Designer.cs">
+      <DependentUpon>Consulter_List_reservastion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Detaille_Ouvrage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detaille_Ouvrage.Designer.cs">
+      <DependentUpon>Detaille_Ouvrage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\BiblioService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Session.cs" />
+    <Compile Include="SupprimerMembre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupprimerMembre.Designer.cs">
+      <DependentUpon>SupprimerMembre.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Accueil.resx">
+      <DependentUpon>Accueil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterMembreEnseignant.resx">
+      <DependentUpon>AjouterMembreEnseignant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterMembreEtudiant.resx">
+      <DependentUpon>AjouterMembreEtudiant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterOuvrage.resx">
+      <DependentUpon>AjouterOuvrage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulter_Liste_Ouvrage.resx">
+      <DependentUpon>Consulter_Liste_Ouvrage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulter_List_reservastion.resx">
+      <DependentUpon>Consulter_List_reservastion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detaille_Ouvrage.resx">
+      <DependentUpon>Detaille_Ouvrage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SupprimerMembre.resx">
+      <DependentUpon>SupprimerMembre.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\BiblioService\Client_Bibliothecaire.BiblioService.Ouvrage.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\BiblioService\Service1.wsdl" />
+    <None Include="Service References\BiblioService\ServiceWCF.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\BiblioService\ServiceWCF1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\BiblioService\ServiceWCF2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\IRemoteBibliotheque\IRemoteBibliotheque.csproj">
+      <Project>{b7838667-e7c6-4711-ba25-536d5a340331}</Project>
+      <Name>IRemoteBibliotheque</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addMember.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enseignant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove member.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\BiblioService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\BiblioService\ServiceWCF.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\BiblioService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\BiblioService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\BiblioService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
